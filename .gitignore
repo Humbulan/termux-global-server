@@ -1,0 +1,13 @@
+# Backup directories
+backups/*/
+
+# Log files
+*.log
+
+# Sensitive data
+*.key
+*.pem
+
+# Temporary files
+tmp/
+temp/
